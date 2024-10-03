@@ -1,0 +1,3 @@
+[submodule "lab-monitoramento-prometheus"]
+	path = lab-monitoramento-prometheus
+	url = https://github.com/uzieljr/lab-monitoramento-prometheus.git

@@ -1,0 +1,4 @@
+/cles aws/
+.terraform*
+plan*
+*.tfstate*
